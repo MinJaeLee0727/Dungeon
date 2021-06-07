@@ -102,13 +102,14 @@ def manual():
 
 while True:
     status = [0, 0, 0]
-    print("\nManual or Automatic or End the game (M or A or E): ")
+    print("\nOptions: Manual or Automatic or End the game (M or A or E)")
     method = input("Choose operation mode among the above options: ")
     if method == "M":
         print()
         manual()
     elif method == "A":
         count = int(input("\nHow many times do you want to repeat the game?: "))
+
         if count is not int:
             print("please input integer")
         for i in range(1, count + 1):
@@ -122,4 +123,3 @@ while True:
         break
     else:
         print("\n Insert M or A or E again")
-
