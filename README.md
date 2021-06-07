@@ -1,6 +1,3 @@
-# Dungeon
-Python game shows experimental probability and theoretical probabilty used in MDM4UI course
-
 ## Background
 
 I made this game using Python for MDM4UI - Grade 12 Mathematics of Data Management - course project of which purpose is to allow students the opportunity to demonstrate their understanding of permuations, combinations, experimental and theoretical probability, and discrete probability distributions. I believe this game would help students understand experimental and theoretical proability by actually running the game plenty of times.
