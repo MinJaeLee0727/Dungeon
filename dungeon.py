@@ -114,9 +114,7 @@ while True:
             print("please input integer")
         for i in range(1, count + 1):
             auto()
-        print()
-        print(status)
-        print("Win: ", status[0], "| Lose: ", status[1], "| Income: ", status[2], "| Cost: ", count * 5, "| Profit: ", status[2] - (count * 5))
+        print("\nWin: ", status[0], "| Lose: ", status[1], "| Income: ", status[2], "| Cost: ", count * 5, "| Profit: ", status[2] - (count * 5))
         print("Monster: ", money[0], "$5: ", money[1], "$10: ", money[2], "$15: ", money[3], "$20: ", money[4])
 
     elif method == "E":
