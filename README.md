@@ -1,11 +1,4 @@
 # Dungeon
-
-Created: Jan 22, 2020
-Github: https://github.com/MinJaeLee0727/Dungeon
-Pinned: No
-Still on working?: No
-Tags: Python
-
 Python game shows experimental probability and theoretical probabilty used in MDM4UI course
 
 ## Background
